@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "gdb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/riccardozanotelli/Repo/elabrotato-asm-2023-2024",
+      "program": "/Users/riccardozanotelli/Repo/elabrotato-asm-2023-2024/bin/pianificatore"
+    }
+  ]
+}
